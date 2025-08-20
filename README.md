@@ -25,24 +25,26 @@ It allows registered voters to log in with their credentials, cast their votes f
    ```bash
    git clone https://github.com/PPiyush14/Voting-System-C.git
 
-## Example usage
-##Voting System
--1. Login and Vote
--2. Display Results
--3. Exit
+## 📸 Example Usage  
 
--Enter your choice: 1
--Enter Voter ID: 123
--Enter Password: 1
--Login successful!
--Candidate ID 1 for Bhartiya Janta Party
--Candidate ID 2 for Congress
--Candidate ID 3 for Aam Admi Party
--Candidate ID 4 for Bahujan Samaj Party
--Candidate ID 5 for Others
--Candidate ID 6 for NOTA
--Enter Candidate ID to vote: 2
--Vote cast successfully for Candidate ID: 2!
+Voting System
+1. Login and Vote
+2. Display Results
+3. Exit
+
+Enter your choice: 1
+Enter Voter ID: 123
+Enter Password: 1
+Login successful!
+Candidate ID 1 for Bhartiya Janta Party
+Candidate ID 2 for Congress
+Candidate ID 3 for Aam Admi Party
+Candidate ID 4 for Bahujan Samaj Party
+Candidate ID 5 for Others
+Candidate ID 6 for NOTA
+Enter Candidate ID to vote: 2
+Vote cast successfully for Candidate ID: 2!
+
 
 📌 Author
  Piyush Rajvaidya
